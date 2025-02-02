@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.iitjobs.candidate",
+    "sha256_cert_fingerprints":
+    ["FE:17:44:AE:5C:50:88:A1:D9:59:B5:E8:97:2F:01:2F:16:00:52:FD:ED:27:37:28:49:D8:ED:DA:D5:66:28:A0"]
+  }
+}]
